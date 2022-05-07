@@ -6,5 +6,5 @@
 - Part 2 contains the rest of the record i.e programs and algorithms.
 
 
-- Click here for Part 1 👉 <a href="record part 1.docx"> front page</a>
-- Click here for Part 2 👉 <a href="record part 1.docx"> front page</a>
+    - Click here for Part 1 of record 👉 <a href="record part 1.docx"> front page</a>
+    - Click here for Part 2 of record 👉 <a href="record part 2.docx"> Part 2</a>
