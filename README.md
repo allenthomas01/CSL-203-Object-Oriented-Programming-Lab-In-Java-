@@ -3,4 +3,4 @@
 - S3 CSE Java Lab Record 2019 scheme, KTU University, Kerala
 
 
-- Front page of record <a href="record part 1.docx"> front page</a>
+- Click here for front page of record 👉 <a href="record part 1.docx"> front page</a>
